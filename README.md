@@ -1,6 +1,6 @@
 Hey! I'm Bruno Geronimo. Nice to meet you :)
 
-I'm 25 years old, and I'm originally from São Paulo, Brazil.
+I'm 26 years old, and I'm originally from São Paulo, Brazil.
 
 Currently I live in Berlin, Germany, and I work as a Software Developer at [ShopApotheke](https://shop-apotheke.com).
 
