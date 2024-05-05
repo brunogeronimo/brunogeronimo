@@ -2,7 +2,7 @@ Hey! I'm Bruno Geronimo. Nice to meet you :)
 
 I'm originally from São Paulo, Brazil.
 
-Currently I live in Berlin, Germany, and I work as a Software Developer at [ShopApotheke](https://shop-apotheke.com).
+Currently I live in Berlin, Germany, and I work as a Software Developer at [Kittl](https://kittl.com).
 
 You can find me on the internet at:
 
